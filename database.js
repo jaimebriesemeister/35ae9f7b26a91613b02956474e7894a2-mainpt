@@ -7,7 +7,7 @@ const dictionary = {
   "india" : {
     "word" : "India",
     "lexicalCategory":"Substantivo",
-    "definition" :"um país no sul da Ásia ocupando a maior parte do subcontinente indiano; população 1.311.000.000 (estimada em 2015); línguas oficiais, Hindi e Inglês (quatorze outras línguas são reconhecidas como oficiais em certas regiões; destas, Bengali, Gujarati, Marathi, Tamil, Telugu e Urdu têm a maioria dos falantes de primeira língua); capital, Nova Delhi."
+    "definition" :"um país no sul da Ásia ocupando a maior parte do subcontinente indiano; população 1.311.000.000 (estimada em 2015); línguas oficiais, Hindi e Inglês (quatorze outras línguas são reconhecidas como oficiais em certas regiões; destas, Bengali, Gujarati, Marathi, Tamil, Telugu e Urdu têm a maioria dos falantes como primeira língua); capital, Nova Delhi."
   },
   "externamente" : {
     "word" : "externamente",
