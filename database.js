@@ -14,17 +14,17 @@ const dictionary = {
     "lexicalCategory":"Advérbio",
     "definition" : "com referência à superfície externa ou estrutura de algo; lado de fora"
   },
-  "hello" : {
+  "olá" : {
     "word" : "olá",
     "lexicalCategory":"Interjeição",
     "definition" : "usado como uma saudação ou para iniciar uma conversa telefônica"
   },
-  "welcome" : {
+  "bem-vindo" : {
     "word" : "bem-vindo",
     "lexicalCategory":"Substantivo",
     "definition" : "uma saudação ou maneira de cumprimentar alguém"
   },
-  "almost" : {
+  "quase" : {
     "word" : "quase",
     "lexicalCategory":"Advérbio",
     "definition" : "não exatamente; muito próximo"
